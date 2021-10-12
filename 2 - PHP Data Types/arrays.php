@@ -22,5 +22,6 @@ print_r($new_array);
   )
 
   This is for new_array
+  They are displayed as Key => value pairs like an object with the index => value 
 */
 ?>
