@@ -1,0 +1,17 @@
+Creating a Database in PHPmyadmin
+
+Go to PHPmyadmin
+Click on Databases
+Type in Prefered name 
+Click Create
+
+Seperate
+
+In the SQL section of the site you can run SQL queries/commands on a Database
+The lecturer runs
+
+CREATE DATABASE database-name
+
+Droping a Database is how you delete it 
+
+In this lecture I used the above SQL command to create the database "loginapp"
