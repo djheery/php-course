@@ -1,0 +1,17 @@
+What is a Database?
+
+A Database is a collecion of related data, in an organized format.
+
+Databases can be organized by columns & rows, tables - used to further organize the data
+
+We will be using MYSQL in this course
+
+SQL = Structured Query Language
+
+Table example:
+
+id  |  First Name |  Second Name  |  Age
+ 1  |  Conn       |  Heery        |  56
+ 2  |  Anna       |  Heery        |  24
+ 3  |  Liz        |  Jones        |  25
+ 4  |  Daniel     |  Heery        |  27
