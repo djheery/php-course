@@ -1,0 +1,12 @@
+In this lecture we are creating a table for the databse "loginapp" in PHPmyadmin
+
+Very self expanatory 
+- Go to the database
+- Click Create Table
+- Enter data 
+  - Interesting points 
+    - VARCHAR = Characters - used for passwords/username
+    - INT for intergers
+    - AI = Auto Increment of a diget 
+
+    

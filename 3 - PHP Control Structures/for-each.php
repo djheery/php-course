@@ -4,4 +4,4 @@
   foreach($numbers as $n) {
     printf($n);
   }
-?>
+?>ˆ

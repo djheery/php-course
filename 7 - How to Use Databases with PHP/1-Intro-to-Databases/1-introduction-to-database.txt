@@ -10,8 +10,11 @@ SQL = Structured Query Language
 
 Table example:
 
+========================================
 id  |  First Name |  Second Name  |  Age
+========================================
  1  |  Conn       |  Heery        |  56
  2  |  Anna       |  Heery        |  24
  3  |  Liz        |  Jones        |  25
  4  |  Daniel     |  Heery        |  27
+=========================================
